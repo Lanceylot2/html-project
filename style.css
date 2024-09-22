@@ -1,0 +1,22 @@
+.important-p{
+    background-color: #6A9AB0;
+    color: #f7f6f8;
+    font-size: large;
+}
+/* LOGO */
+h1{
+    color: #6439FF;
+    font-family: "Protest Guerrilla", sans-serif;
+}
+.center-p{
+    text-align: center;
+    color: white;
+    font-family: "Oswald", sans-serif;
+}
+*{
+    text-align: center;
+    /* BACKGROUND */
+}
+body{
+    background-color: black;
+}
